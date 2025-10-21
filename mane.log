@@ -1,0 +1,55 @@
+nohup: ignoring input
+INFO:     Started server process [22546]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+🔥 Starting Mane - The Flame...
+Working directory: /tmp/mane_workspace
+GitHub: ikel-eidra
+Gemini API: Configured
+INFO:     127.0.0.1:60142 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33770 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33776 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33792 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:47538 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     10.21.78.1:59298 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     10.21.78.1:59306 - "GET / HTTP/1.1" 200 OK
+INFO:     10.21.78.1:59314 - "GET / HTTP/1.1" 200 OK
+INFO:     10.21.78.1:59318 - "GET /images/mane1.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33426 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:58116 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:49314 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:49330 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:52360 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:53098 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:52854 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:56024 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:54744 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:54756 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:47898 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:59206 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:48058 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:58128 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:56246 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:47156 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:58556 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:55368 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:55370 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33066 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:49048 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:59376 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:41682 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:47266 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:56030 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:54194 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:54206 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:54210 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:54218 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33458 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33468 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33484 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33494 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [22546]
