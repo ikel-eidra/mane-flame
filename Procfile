@@ -1,2 +1,2 @@
-web: python3 backend.py
+web: python3 main.py
 
